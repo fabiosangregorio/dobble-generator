@@ -1,7 +1,7 @@
 {
   "main.css": "/dobble-generator/static/css/main.a2904a4f.chunk.css",
-  "main.js": "/dobble-generator/static/js/main.bbc78188.chunk.js",
-  "main.js.map": "/dobble-generator/static/js/main.bbc78188.chunk.js.map",
+  "main.js": "/dobble-generator/static/js/main.9390ea61.chunk.js",
+  "main.js.map": "/dobble-generator/static/js/main.9390ea61.chunk.js.map",
   "runtime~main.js": "/dobble-generator/static/js/runtime~main.707bd20a.js",
   "runtime~main.js.map": "/dobble-generator/static/js/runtime~main.707bd20a.js.map",
   "static/css/2.3c6361c3.chunk.css": "/dobble-generator/static/css/2.3c6361c3.chunk.css",
@@ -124,7 +124,7 @@
   "static/js/60.f0ca832a.chunk.js": "/dobble-generator/static/js/60.f0ca832a.chunk.js",
   "static/js/60.f0ca832a.chunk.js.map": "/dobble-generator/static/js/60.f0ca832a.chunk.js.map",
   "index.html": "/dobble-generator/index.html",
-  "precache-manifest.bf24d04c53467d23aa257a075b9f03bc.js": "/dobble-generator/precache-manifest.bf24d04c53467d23aa257a075b9f03bc.js",
+  "precache-manifest.ed78bb912669b654a1c9c0676f2f8e8c.js": "/dobble-generator/precache-manifest.ed78bb912669b654a1c9c0676f2f8e8c.js",
   "service-worker.js": "/dobble-generator/service-worker.js",
   "static/css/2.3c6361c3.chunk.css.map": "/dobble-generator/static/css/2.3c6361c3.chunk.css.map",
   "static/css/main.a2904a4f.chunk.css.map": "/dobble-generator/static/css/main.a2904a4f.chunk.css.map",

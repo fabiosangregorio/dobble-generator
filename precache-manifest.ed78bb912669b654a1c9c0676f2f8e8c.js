@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/dobble-generator/static/js/38.165d537a.chunk.js"
   },
   {
-    "revision": "5bd17122463b0dd53f8a",
+    "revision": "6e6b249ccb16fb004b0b",
     "url": "/dobble-generator/static/css/main.a2904a4f.chunk.css"
   },
   {
@@ -160,8 +160,8 @@ self.__precacheManifest = [
     "url": "/dobble-generator/static/js/37.53128c9f.chunk.js"
   },
   {
-    "revision": "5bd17122463b0dd53f8a",
-    "url": "/dobble-generator/static/js/main.bbc78188.chunk.js"
+    "revision": "6e6b249ccb16fb004b0b",
+    "url": "/dobble-generator/static/js/main.9390ea61.chunk.js"
   },
   {
     "revision": "db91a0b09a952ebf6ec8",
@@ -256,12 +256,12 @@ self.__precacheManifest = [
     "url": "/dobble-generator/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/dobble-generator/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/dobble-generator/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/dobble-generator/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -292,12 +292,12 @@ self.__precacheManifest = [
     "url": "/dobble-generator/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/dobble-generator/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/dobble-generator/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/dobble-generator/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -316,7 +316,7 @@ self.__precacheManifest = [
     "url": "/dobble-generator/static/css/2.3c6361c3.chunk.css"
   },
   {
-    "revision": "cb56a0352b5781fd98cacd0aa5d918be",
+    "revision": "67348730d3a07a5b7ad5320e20a369a3",
     "url": "/dobble-generator/index.html"
   }
 ];
