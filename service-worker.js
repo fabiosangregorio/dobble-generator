@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dobble-generator/precache-manifest.cff477e27d4fc7f824c619cc241fe38a.js"
+  "/dobble-generator/precache-manifest.48d3f423553fef0340c12abd7bbfe35d.js"
 );
 
 workbox.clientsClaim();
